@@ -1,0 +1,69 @@
+/*=============================================
+/ PRIMARY COLOR 
+/=============================================*/
+/**---- Background HEX ----**/
+
+.discover_content, .icon_box_1:hover .box_inner, .showit, .abc_discover_btn, .singlefunfact:hover .factInner, .singleTeamMember:after, .singleSkill .skillbar .skill, 
+.singleSkill .skillbar span.rounds, .subscripform .fix_btn:after, .singleClient:hover a, .client_slider.owl-theme .owl-dots .owl-dot.active span, 
+.client_slider.owl-theme .owl-dots .owl-dot span:hover, .singlePricingTable:hover .spt_inner, .leftjoin, .rightjoin .common_btn, .readycontact .common_btn,
+.SearchForm button[type="submit"], .dl-menu__wrap ul li a::after, .close-popup:hover:after, .close-popup:hover:before, .singlePricingTable:hover .spti_bar,
+.folio_social a, .yoox_paginations a:hover, .yoox_paginations span.current, .postSocial a i
+{
+    background: #acbc44;
+}
+.portfolioPopUp{
+    background-color: rgba(249, 178, 79, .9);
+}
+.testimonialSection{
+    background: url(../../images/bg/3_5.jpg) no-repeat center center / cover;
+}
+.funfactsction {
+    background: url(../../images/bg/4_5.jpg) no-repeat center center / cover;
+}
+.readysection {
+    background: url(../../images/bg/5_5.jpg) no-repeat center center / cover;
+}
+
+/**---- Color Text ----**/
+.yoox_link, .icon_box_1 i, .lbi_details h2 a:hover, .lbid_meta a:first-child, .lbid_meta a:hover,  .navigator_right a:hover, .header_1.fixBg.fixedHeader .navigator_right a:hover,
+.teamDesc a.teamSocial:hover, .spti_head h5, .foliodesc a.cate:hover, .foliodesc h4 a:hover, .portdescrip span a, .portdescrip span,
+.mainMenu ul li.active > a, .mainMenu ul li a:hover, .header_02 .navigator_right a:hover, .socialLink a:hover, .nextprevPagination a:hover, .header_03 .navigator_right a:hover, 
+.blog_metas a:first-child, .blog_metas a:hover, .post_author h3 a:hover, .color_settings .switch-btn.active, .color_settings .switch-btn:hover
+{
+    color: #acbc44;
+}
+.yoox_link.white{
+    color: #fff;
+}
+.yoox_link.white:hover{
+    color: #000;
+}
+
+
+
+
+/*=============================================
+/ SECONDARY COLOR 
+/=============================================*/
+/**---- Background HEX ----**/
+
+.tp-caption .discoer_btn, .SearchForm .fix_btn:after, .section_subtitle:before, .section_subtitle:after, .folioHover a.btn_folio, .common_btn, .subscripform button[type="submit"],
+.lbi_details .lbid_date, .singlePricingTable:hover .spti_foot a, .rightjoin, .sidebarSlider, .popUpvideo a.video_link, .blog_headings .blog_date, .single-comment a.commentReply
+{
+    background: #e34cbe;
+}
+.testimonial_icon {
+    background: url(../../images/bg/4_5.png) no-repeat center center / cover;
+}
+
+/**---- Color Text ----**/
+.singleIteamPro span a:hover, .tagitems a, .post_author > a, .single-comment .authorDetails span, .single-comment .authorDetails h5 a:hover,
+.tagcloude a:hover, .sidebar ul li a:hover
+{
+    color: #e34cbe;
+}
+.slider_2 .responsiveClass_2 span{
+    color: #e34cbe !important;
+}
+
+
