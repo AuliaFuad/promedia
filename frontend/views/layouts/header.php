@@ -52,7 +52,6 @@ $baseUrl = Yii::$app->request->baseUrl;
                                     } else {  echo '<li><a href="'.Yii::$app->request->baseUrl.'">home</a></li>
                                         <li><a href="'.Yii::$app->request->baseUrl.'/service">layanan</a></li>
                                         <li><a href="'.Yii::$app->request->baseUrl.'/portofolio">portofolio</a></li>
-                                        <li><a href="'.Yii::$app->request->baseUrl.'/team">team</a></li>
                                         <li><a href="'.Yii::$app->request->baseUrl.'/project">project</a></li>
                                         <li><a href="'.Yii::$app->request->baseUrl.'/berita">berita</a></li>
                                         <li><a href="'.Yii::$app->request->baseUrl.'/tentang">tentang Kami</a></li>';

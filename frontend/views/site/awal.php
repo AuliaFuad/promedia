@@ -346,39 +346,6 @@ $team = Team::find()->limit(4)->orderBy(['id' => SORT_DESC])->all();
                                 </div>
                             </div>
                             <?php } ?>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="singleTeamMember">
-                                    <img src="<?= $baseUrl ?>/promedia/images/team/1.jpg" alt=""/>
-                                    <div class="teamDesc">
-                                        <h3><a href="#">Kevin Smith</a></h3>
-                                        <h4>Co Founder</h4>
-                                        <a class="teamSocial" href="#"><i class="fa fa-twitter"></i></a>
-                                        <a class="teamSocial" href="#"><i class="fa fa-facebook"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="singleTeamMember">
-                                    <img src="<?= $baseUrl ?>/promedia/images/team/1.jpg" alt=""/>
-                                    <div class="teamDesc">
-                                        <h3><a href="#">Kevin Smith</a></h3>
-                                        <h4>Co Founder</h4>
-                                        <a class="teamSocial" href="#"><i class="fa fa-twitter"></i></a>
-                                        <a class="teamSocial" href="#"><i class="fa fa-facebook"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="singleTeamMember">
-                                    <img src="<?= $baseUrl ?>/promedia/images/team/1.jpg" alt=""/>
-                                    <div class="teamDesc">
-                                        <h3><a href="#">Kevin Smith</a></h3>
-                                        <h4>Co Founder</h4>
-                                        <a class="teamSocial" href="#"><i class="fa fa-twitter"></i></a>
-                                        <a class="teamSocial" href="#"><i class="fa fa-facebook"></i></a>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>

@@ -77,43 +77,6 @@ $this->title = 'Tentang Kami | Promedia';
                                 </div>
                             </div>
                             <?php } ?>
-
-                            <div class="col-lg-3 col-sm-3">
-                                <div class="singleTeamMember">
-                                    <img src="<?= $baseUrl ?>/promedia/images/team/1.jpg" alt=""/>
-                                    <div class="teamDesc">
-                                        <h3><a href="#">Kevin Smith</a></h3>
-                                        <h4>Co Founder</h4>
-                                        <a class="teamSocial" href="#"><i class="fa fa-twitter"></i></a>
-                                        <a class="teamSocial" href="#"><i class="fa fa-facebook"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-sm-3">
-                                <div class="singleTeamMember">
-                                    <img src="<?= $baseUrl ?>/promedia/images/team/1.jpg" alt=""/>
-                                    <div class="teamDesc">
-                                        <h3><a href="#">Kevin Smith</a></h3>
-                                        <h4>Co Founder</h4>
-                                        <a class="teamSocial" href="#"><i class="fa fa-twitter"></i></a>
-                                        <a class="teamSocial" href="#"><i class="fa fa-facebook"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-sm-3">
-                                <div class="singleTeamMember">
-                                    <img src="<?= $baseUrl ?>/promedia/images/team/1.jpg" alt=""/>
-                                    <div class="teamDesc">
-                                        <h3><a href="#">Kevin Smith</a></h3>
-                                        <h4>Co Founder</h4>
-                                        <a class="teamSocial" href="#"><i class="fa fa-twitter"></i></a>
-                                        <a class="teamSocial" href="#"><i class="fa fa-facebook"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div style="padding-top: 40px">
-                            <center><a href="#" class="abc_discover_btn fix_btn read_btn">Selengkapnya</a></center>
                         </div>
                     </div>
                 </div>
